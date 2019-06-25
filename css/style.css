@@ -1,0 +1,196 @@
+background-size:cover;
+
+
+body {
+    font: 13px/1.5 "Helvetica Neue", Arial, "Liberation Sans", FreeSans, sans-serif;
+    border-image-repeat: none;
+    padding-inline: 100px;
+  }
+  
+  pre,
+  code {
+    font-family: "DejaVu Sans Mono", Menlo, Consolas, monospace;
+  }
+  
+  hr {
+    border: 0 solid #ccc;
+    border-top-width: 1px;
+    clear: both;
+    height: 0;
+  }
+  
+  h1 {
+    font-size: 25px;
+  }
+  
+  h2 {
+    font-size: 23px;
+  }
+  
+  h3 {
+    font-size: 21px;
+  }
+  
+  h4 {
+    font-size: 19px;
+  }
+  
+  h5 {
+    font-size: 17px;
+  }
+  
+  h6 {
+    font-size: 15px;
+  }
+  
+  /* `Spacing
+  ----------------------------------------------------------------------------------------------------*/
+  
+  ol {
+    list-style: decimal;
+  }
+  
+  ul {
+    list-style: disc;
+  }
+  
+  li {
+    margin-left: 30px;
+  }
+  
+  p,
+  dl,
+  hr,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  ol,
+  ul,
+  pre,
+  table,
+  address,
+  fieldset,
+  figure {
+    margin-bottom: 20px;
+  }
+  body
+{
+  margin-top: 5px;
+  background-image:img/hyderabad.jpg;
+  background-repeat: no-repeat;
+  background-position:relative;
+  background-size:cover;
+}
+header{
+  overflow: hidden;
+  background-color:lemonchiffon;
+  border-radius: 5px;
+  position:relative;
+  top:0;
+  }
+#Holidays{
+  float:left;
+  margin: 10px 10px 10px;
+  color:black;
+  margin-top: 15px;
+  font-size: 22px;
+}
+nav{
+  float: right;
+  margin-top: 15px;
+}
+nav li{
+  display: inline;
+  padding-left: 10px;
+  font-size: 20px;
+}
+nav a{
+  text-decoration:maroon;
+  color:none;
+}
+nav a:hover{
+  color:black;
+}
+nav li:last-child{
+  padding-right: 10px;
+}
+
+.cover img{
+  height:300px;
+  width: 940px;
+  border-radius: 5px;
+  margin-top:20px;
+}
+.main{
+  margin-top: 20px;
+}
+.main img{
+  border-radius: 5px;
+}
+.main section{
+  border: 2px solid #e3e3e3;
+  padding: 3px;
+  border-radius: 4px;
+}
+
+ .main h3{
+  font-size: 30x;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin-bottom: 2px;
+  margin-top: 20px;
+  color:#333;
+  image-resolution: 
+
+}
+section p{
+  font-size:18px;
+  font-weight: 500;
+  margin-top: 15px;
+  line-height: 1.8;
+  color:black;
+  font-family: 'lato',serif;
+  text-align: justify;
+
+}
+
+.twocols{
+  margin-top: 25px;
+  overflow: hidden;
+}
+.twocols img{
+  border-radius: 5px;
+}
+.col2{
+  height: 401px;
+  margin-top: 73px;
+}
+.col2 p{
+    font-family: sans-serif;
+    font-size: 15px;
+    color:#444;
+    text-align: center;
+}
+.col2 section{
+  border: 2px solid #e3e3e3;
+  box-shadow: 2px 2px 5px #888888;
+}.twocols h3{
+  font-size: 20x;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin-top: 20px;
+  color:#333;
+}
+footer{
+  clear:both;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  border-top: 1px solid #d1d1d1;
+  padding-top: 15px;
+  color:firebrick;
+  background-origin: padding-box;
+  position:relative;
+}
